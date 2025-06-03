@@ -1,0 +1,95 @@
+name: Formatting Issue Report
+description: Report a page or post with incorrect formatting in the Markdown archive.
+title: "[Formatting] Brief description of issue in [File Name]"
+labels:
+  - bug
+  - formatting
+assignees:
+  - 'alicia86'
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Thank you for helping improve the Galactic Campaigns Forum Archive!**
+
+        Please provide as much detail as possible so we can quickly identify and fix the formatting problem. Fill in the sections below.
+  - type: input
+    id: file-path
+    attributes:
+      label: "1. Full Path to the Markdown File"
+      description: "e.g., `Play_by_Post_Roleplaying_Games/Star_Wars_Play-by-Post_Games/Star_Wars_Forgotten_Ones/Reflections_[OOC]_25420.md`"
+      placeholder: "[PASTE FILE PATH HERE]"
+    validations:
+      required: true
+  - type: input
+    id: post-identifier
+    attributes:
+      label: "2. Specific Post Identifier"
+      description: "Please provide the author and timestamp of the post, e.g., \"Post by BWS2K on 2014-04-11 21:24:11\". You can find this in the `### **Author** (YYYY-MM-DD HH:MM:SS)` line above the post content."
+      placeholder: "[AUTHOR AND TIMESTAMP HERE]"
+    validations:
+      required: true
+  - type: textarea
+    id: issue-description
+    attributes:
+      label: "3. Description of the Formatting Problem"
+      description: "Please be as specific as possible. What looks wrong?"
+      placeholder: "[DESCRIPTION OF THE ISSUE HERE]"
+      value: |
+        Examples:
+        - Smilie HTML comments `` are still visible around the Markdown image `![:icon_cool:](...)`.
+        - A nested list inside a spoiler is not rendering as a proper list, showing `[/list:u:UID]`.
+        - The `[customtag]` BBCode is not converted and appears as plain text.
+        - Text that should be bold is not bold.
+
+        [YOUR DESCRIPTION HERE]
+    validations:
+      required: true
+  - type: markdown
+    id: screenshot-info
+    attributes:
+      value: |
+        **4. Screenshot (Optional, but Highly Recommended):**
+        (If possible, please provide a screenshot of the poorly formatted section. You can drag and drop images directly into the GitHub issue editor when creating the issue.)
+  - type: textarea
+    id: original-bbcode
+    attributes:
+      label: "5. Original BBCode (Optional, if known)"
+      description: "If you happen to have access to the original BBCode for the problematic post section, please paste it here. This is extremely helpful for debugging but not required."
+      placeholder: "[PASTE ORIGINAL BBCODE HERE, IF AVAILABLE]"
+      render: text # Using 'text' as 'bbcode' might not be a supported render language for forms
+    validations:
+      required: false
+  - type: markdown
+    id: environment-header
+    attributes:
+      value: |
+        **6. Your Viewing Environment (Optional):**
+        (Sometimes formatting issues can be specific to how a Markdown file is viewed.)
+  - type: input
+    id: viewer-editor
+    attributes:
+      label: "Markdown Viewer/Editor Used"
+      placeholder: "e.g., GitHub web view, VS Code preview, Obsidian, Typora, etc."
+    validations:
+      required: false
+  - type: input
+    id: browser-info
+    attributes:
+      label: "Browser (if applicable)"
+      placeholder: "e.g., Chrome 125, Firefox 124"
+    validations:
+      required: false
+  - type: input
+    id: os-info
+    attributes:
+      label: "Operating System"
+      placeholder: "e.g., Windows 11, macOS Sonoma, Ubuntu 22.04"
+    validations:
+      required: false
+  - type: markdown
+    id: example-title-info
+    attributes:
+      value: |
+        ---
+        **Example of a good issue title:** `[Formatting] Smilie HTML comments visible in Reflections_[OOC]_25420.md post by BWS2K`
