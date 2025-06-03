@@ -1,0 +1,29 @@
+# [SAGA Reb] Imperial Espionage
+
+### **Magnetic** (2014-04-02 16:28:45)
+
+Loyal citizens of the Empire,
+I am recruiting 4 to 5 players for a Star Wars Saga Edition campaign set during, or near, the timeline of the original movie trilogy.
+**Duration and Frequency:** 
+4 to 6 hours 1/week via Skype. Day of Week TBD by group availability. Monday evenings, Friday evenings and anytime on the weekends are times that work for me (all Pacific Std Time). Please be sure to tell me what times you are available.
+**Campaign Pitch:**
+The players will take on the role of experienced Imperial Intelligence agents who are up for selection into the elite ranks of the Bureau of Adjustments. To determine if you guys have the “right stuff” your team must endure a crucible: Your mission, if you choose to accept it, (and by joining this campaign you are accepting it) is to help stabilize an entire Sector of the Empire.
+Aparo sector, in the Outer rim along the Hydian Way, lies adjacent to the Corporate Sector. You are to displace unfavorable local regimes, reign in Imperial authorities who are prejudicing the stability of the region, root out militant movements, neutralize criminal syndicates, thwart Mega-corporate ambitions, and where possible cultivate and train system cells of Imperial Agents from the local populace to bolster Imperial Intelligence’s presence on important worlds throughout the sector.
+The Bureau of Operations and the Aparo Sector branch of the Intelligence Bureau will suggest particular objectives that will serve as waypoints for your team to navigate your course through this very broad and long-duration assignment. It will be up the players how ruthlessly, mercifully, and ethically you wish to behave in accomplishing your mission. For instance if you are told that the Agency believes that a local regent should be “neutralized”, your team can choose to assassinate him, overthrow him, co-opt him and turn him loyal, blackmail him into behaving better, induce constitutional reforms that leave him as a figurehead, etc. As long as you get the job done without causing massive unwanted repercussions, Imperial Intelligence will view your actions in a favorable light.
+Upon completion of this crucible (successfully or not depending on the quality of your efforts), the PC’s will surely have drawn the attention of many powerful organizations. The second stage of this campaign will involve conspiracies on the galactic level, with power plays being made whose impact will echo throughout history. Much of Star Wars canon goes out the window at this stage and together we will be authoring a new destiny for the Galaxy Far, Far Away.
+**Character Creation Rules:**
+30 Point Buy, Level 6, Maximized Hit Points. Maximum attainable level of 16. Leveling progression will be slow, with levels gained at GM discretion. Destiny optional rules are NOT being used. Use all official WotC books except Scavanger’s Guide and Threats of the Galaxy. You do not have to play a human character, but please no droid characters (traumatic experience from previous campaign). Force users are okay if played discretely (dashing about while hitting people with a shiny stick is the opposite of discrete, comprende?).
+Just to be crystal clear: This is NOT a Rebel campaign. You do NOT secretly work for the Rebel Alliance (or any organization that has an agenda that is virtually identical to that of the Rebel Alliance). The intended focus of this campaign is Imperial vs Imperial.
+Saga does not use alignment. But this reference may help: this campaign is best suited to characters of the Neutral persuasion: Lawful Neutral, True Neutral, and maybe Chaotic Neutral (assuming there actually exist players who understand the difference between Chaotic Neutral and Chaotic Evil). Lawful Evil and Neutral Evil will probably work just fine too. Please don't be a chaotic evil dickhead.
+Good-aligned characters are welcome too, as long as you are clever, and you understand that this is not a rebel campaign! You will be in a position to influence real political power, so you may be able to change some things for the better, if you care to try.
+House rules: You will need to tolerate quite a lot of house rules. Will post a document later. Some rules include:
+(1) All classes (including Prestige Classes and even the non-heroic class) have full Base Attack Bonus progression (like the soldier class)
+(2) Any class can have any skill as a trained skill (ignore the class skill lists). Choosing Use the Force as a trained skill obviously still requires you to have taken the Force Sensitivity feat.
+(3) Various small changes have been made to the hit dice, number of trained skills, and the starting feats of some of the classes to account for the game balance shifts caused by the previous 2 rules *(4) All skill focus feats grant a scaling competency bonus of +1 per 2 character levels, rounded up, to a maximum of +5 by level 9 [so by level 6, any skill focus feats you've picked up will be granting a +3 competency bonus]
+(5) All characters attacks deal bonus damage equal to their full heroic level (instead of 1/2 their heroic level per standard rules). This also applies to force powers that deal damage. If a force-sensitive character has dark side score of >0, then they must add their full dark side score (instead of their level) to damage dealt with force powers.
+(6) Characters who fall to the dark side are not confiscated by the GM. You can continue to play them and the GM will occasionally mess with your character's head to represent the madness of the dark side. Wisdom checks (Wisdom mod + d20) with a DC ranging from 5 to 15 will be used to resist these dark side episodes.
+Thank you for reading this far. I hope you can join me in this campaign!*
+
+
+
+<span style="font-size: 0.5em;">***Last Modified**: 4.0.28 - *2025-06-02 21:38:51 EDT*</span>

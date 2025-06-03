@@ -1,0 +1,28 @@
+# The Abo'eth
+
+### **simplyscribed** (2009-10-18 10:15:09)
+
+Developer’s Notes—the Abo’eth were originally created for my Wartorn Galaxy, but I see no reason they can’t double up on settings and help populate Kalium (after all, some of the species we’re using are lifted straight from *Star Wars*!). It is true that they are similar to the Ysanna conceptually, but I’ve adapted them in a way that I think could help fill in some historical detail and also make them a potential hook later on. Read it all and give ‘em a chance, anyways.
+<span style="font-size: 1.50em;">The Abo’eth</span>
+*”It is the responsibility of the individual to realise their own value and to act upon it;
+As one of the lucky few to feel a true connection to the Force it is not my job to keep the peace of the Galaxy, it is my sacred duty.”*
+**Summary:**
+A Force-wielding police Force created by one of the Silver Emperor’s subordinates and sanctioned by the Emperor himself, the Abo’eth—who are sometimes known as the “Gun Knights”—have since lost everything. Hated and hunted by the Factions, they put themselves into stasis until such a time as the Galaxy decides it needs them again.
+**History:** 
+High Marshal Traius Tamberlien was a masterful tactician possessed of a brilliant mind, and was a worthy subordinate of the Silver King. It was he himself who led the ground troops during the pacification of Firaxia, and he saw first-hand the terrifying competency of the Bendu and their White Current. Tamberlien became a student of the Force, though he himself had not the talent, and it was not long before he began his search for Force-sensitives loyal to the Silver King. He realised that such individuals, if properly instructed, could become a potent weapon.
+Tamberlien operated in secrecy for a while, fearing that his attempts might end in embarrassing failure. He was wrong to fear, for he soon discovered Force-sensitive individuals and even persuaded some Bendu to assist in their training. Soon he had a small working model for the organisation he hoped to build and presented the Abo’eth to the Silver King. Marcus Tain was pleased, and gave Tamberlien leave to continue developing the Abo’eth and employ them as an independent policing agency. While Tamberlien kept his original position and responsibilities, he took on the project with great enthusiasm, treating the Abo’eth expansion as a beloved personal project.
+The Abo’eth went from strength to strength during the remainder of Tain’s reign, and soon became a respected constant in the Galaxy. They were feared too, and resented. But most agreed they were a force for good. And then Tain died.
+The Gun Knights no longer functioned under the higher authority of the Silver King, though they interpreted his sanctioning of their independent action to mean they could go on policing the Galaxy. The Galaxy disagreed, and began resisting the Abo’eth wherever they attempted action. Ironically it was the spread of the Ysanna, another independent police force, that led to the Abo’eth’s dissolution. The Ysanna were new and strong where the Abo’eth were old and weak, and they were more willing to work with the governments of the Galaxy, rather than acting upon the authority of a power no longer recognised as the Gun Knights did.
+Though the Abo’eth hated to leave the supervision of the Galaxy in the hands of the Hutts, loss of respect and heavy attrition during the first decade of the First Intergalactic War led to the inevitable. Some Abo’eth gave in completely, either retiring or defecting to the Ysanna. Most, despairing for the state of the Galaxy but still holding the flame of hope in their hearts, decided to put themselves into stasis, ready to emerge and protect the Galaxy again—when the Galaxy had tired of tearing itself apart and decided it needed them once more.
+**Location:**
+Unknown to the Galaxy at large, hundreds of Abo’eth remain frozen in stasis in hidden locations throughout the Galaxy, along with their dusty but still functional armouries.
+**Philosophy:**
+When indoctrinated, the Abo’eth are told that their unique powers are a sign that they are tasked with a sacred duty to protect the Galaxy and keep its peace. The Gun Knights hold this lesson to heart, using it as their moral compass and deriving from it hope when things seem bleak. The Force is a tool to assist in their duties, but it is not one to be treated lightly, as to the Abo’eth it is both a gift and a burden.
+The Abo’eth are organised as a military task force, complete with ranks and specialist roles. However, the structure of the organisation changed slightly in the wake of the deaths of both its founder and the Silver King. Without an obvious candidate to take command, the highest ranking members instead agreed to become a forum and guide the Abo’eth together. Other members of the organisation are permitted to sit in on meetings and have their say twice every standard year should they wish, but final say rests with the three appointed Generals.
+This is all moot in modern times, however. The Abo’eth are few, and have been frozen in time for nearly seven millennia. If and when they finally emerge, it remains to be seen how they will act and evolve in the face of a strange new Galaxy.
+<span style="font-size: 1.25em;">The Abo’eth Talent Tree</span>
+Doesn’t seem particularly worthwhile coming up with a talent tree for these guys until closer to the time they actually re-emerge on the Galactic scene!
+
+
+
+<span style="font-size: 0.5em;">***Last Modified**: 4.0.28 - *2025-06-02 21:38:54 EDT*</span>

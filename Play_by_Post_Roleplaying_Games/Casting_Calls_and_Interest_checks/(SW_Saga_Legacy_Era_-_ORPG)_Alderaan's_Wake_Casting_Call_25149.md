@@ -1,0 +1,82 @@
+# (SW Saga Legacy Era - ORPG) Alderaan's Wake Casting Call
+
+### **Dreamwalker** (2012-01-16 17:26:43)
+
+<span style="font-size: 2.00em;">**Star Wars**</span>
+<span style="font-size: 1.50em;">**Alderaan’s Wake**</span>
+**It is a time of unrelenting peace in the galaxy. Since the time of 43 ABY, the galaxy has known its longest era of peace beyond any historians recollection. The Galactic Alliance is now the primary government which dictates the peace and justice through the furthest reaches of their jurisdiction. A time of renaissance the likes of which the galaxy has never experienced has blissfully engulfed the civilized worlds in a much welcomed fashion.
+While the galaxy is in a near state of utopia; certain events had been set into motion. These events might represent the very essence of the tide of fate. Fate as it would seem, can be an unstoppable storm once it has risen to its full capacity.
+Our journey begins with a set of abandoned orphans long forgotten by any relatives. They reside in the farthest reaches of space, knowing nothing of the galaxy’s current peace. These children were born into a life of tragedy. And yet, they could be given so much…
+The tide of fate will recede in the near future, but not for the sake of peace. Yet again, the galaxy will be faced with war. But where will these children be at that time? What does the future hold for those who were preordained to shoulder tragedy and incomprehensible responsibility? And these unique children, all things considered; can they really be considered good or evil? The quest for answers will be wrought with strife and pain. But where will they stand in the end?**
+Welcome all to my next campaign! I am very excited to see we have a lot of veterans returning from Volition of the Remnant, and some of the saltier roleplaying generals (Zerah, Ganthet, and Maldoravia! Welcome back Zvi as well!). Hopefully, we will get some new players to go along with us on our new journey! Let’s get to the nitty gritty of the gameplay mechanics and what you’ll need to know before you devise your next hero…(Here is some more insight on the story from the interest check if you missed it: <details><summary>Spoiler</summary>
+
+Darth Krayt's Empire has firmly established itself throughout the galaxy. The Jedi are but a myth during this new dark age and most have retreated to the lavish greenery of Ossus in refuge. However, a group of individuals possess a destiny that even they do not know about. There are some in the imperial aristocracy who would like to keep this secret of their potential until the time is right; and that time its nearing its culmination. This secret has been locked away in the deepest recesses of Imperial mainframes for a time possibly since the formation of the first Galactic Empire. It is nothing but a simple collection of data files. Not even the most adept slicer from Corellia's finest CorSec police forces could get to these files. One particular file is of great importance. The file code named 3-WA has much in store for these select few, but are they going to be able to shoulder their unimaginable destinies? And though it may seem a blessing, the PC's could very be well shouldering the most burdensome of destinies that could tear their souls to its roots. Can you handle the duties and wear the uniform under a tyrannical Empire? Can you shoulder such heavy responsibility? A responsibility that brings with it the entire weight of the galaxy?
+This campaign will be focused on the inner workings of politics and the dynamics of bureaucratic brutality within Darth Krayt's Empire. My game will be for a thinking man's roleplayer and is not for the feint of heart. If you are not savvy with words and cannot survive in a combat situation, you will perish either by death or dismissal.
+I focus on having my PC's undergo criticial decision making as refined officers; with the occassional threats of battle to keep you on your toes. And some of you will really get to understand the meaning, "The pen is mightier than the sword."
+There is great opportunity for aspiring Imperial Officer PC's within my campaign; File 3-WA could be the singularly most defining moment of the galaxy. Furthermore, it's a war on three fronts. You must deal with the Galactic Alliance and Roan Fel's Galactic Empire. Despite all these problems you must rise to the occasion in the spirit of true noble blood. The question is, can YOU shoulder your preordained destiny in a galaxy thrust into war and define its existence?
+
+</details>
+
+**GAME MECHANICS:**
+In terms of the actual mechanics of the game, it will be set up similar to Volition of the Remnant, with some notable differences. You will take the maximum credits and hp for every level. The starting level will be level 8, as we are playing officers yet again. We will be utilizing 32 point buy for your abiity scores.. Any returning veteran players are welcome to take bonus level to 9 if they so choose. The starting level is set at 8 because that can ensure your character meets the campaign requirement of Officer prestige. Yes, you must have at least one level in the Officer prestige. Beyond that, you are free to level your character up in any class that you choose so long as you can meet the requisites to take officer prestige. You may expect to wear the Imperial Officer uniform with pride. Also, do not give yourself any starting equipment besides a simple weapon and some tunics. You may keep your credits, but gear will be issued in the training phases.
+There will be combat, diplomacy, and space combat. So I would advise you build your character accordingly. But remember, in a leadership position there is usually nothing stopping you from getting bodyguards or troopers. You will once again be the leading members of a capital class vessel (The model will be determined during training with the crew). And I'm sure some of you are wondering, will there be Force Sensitivity in the game? I cannot answer that but let's just say there is something for everybody in this game. Now let's move on to the new aspects of this campaign. You also must not write a back story for your character, but you are free to do so later in the campaign when I approve it. This campaign is set during the Legacy Era, where Darth Krayt's Empire is the primary government. But we will starting out before he comes into power to flesh out some important details of your characters. Any returning veterans are also free to give themselves a destiny (Discovery only) if they so choose. Or you may choose a destiny of your own design (provided you give me the parameters for accomplishing it).
+**TRAINING PHASE:** 
+In the last campaign we had many complaints of characters not playing to a military standard or to the imperial viewpoint standard. While I encourage your character to do as you please (Especially in a political office), there has to be some minimum guidelines to military discipline and decorum that your character would know to follow to survive in a military habitat. But, considering some of you may not understand the depth of the inner workings of the military, I've decided to initially send your characters through a brutal training phase initially. And by doing that, I must lay down a disclaimer. We will be spending a brief amount of time at the Stormtrooper Academy and the Naval Academy at Bastion. And during the time, your character will be given rules that you must adhere to and your character will be instructed on how to perform.
+Characters who do not meet these training requirements in game will be dismissed. And that translates to that you will not be able to play with us for the duration of the campaign. (At least not as an imperial). Yes, this is a disclaimer. At the beginnining stages of the game I will have to lose characters to the training requirements. So if you feel that this campaign is not for you or this may be too brutal of a campaign, then this is a fair warning. Anyone can play a smuggler or clone trooper, but it takes a certain mindset to play a noble character who is an imperial officer. So expect to lose some players at the early stages of the game. This should mean to you that you accept the challenge of my campaign, and are ready to compete as an Imperial officer. Once training is completed, you will all be assigned to a capital class vessel based on your performance in the Naval Academy. (And yes, that includes up to a Super Star Destroyer). To sum it all up, you will be a Naval Bridge Officer of high rank onboard a capital class vessel in Darth Krayt&#39;s Empire. So do your best, and we will learn many interesting roleplaying facts about your characters along the way as your adventure begins.
+**LEGACIES (ALL SLOTS FILLED; NO MORE LEGACY CHARACTERS):**
+This is a big change in my GM style, and normally I would not do this. But I have devised a story in which ALL players may select a Legacy to play with. Yes, that means YOUR character will be a descendant of a mighty heroic legend of the past. It may seem tacky to have all players start out with legacies, but trust me on this when I say the story will allow this so that it makes sense and that it isn't over the top. So I want you to enjoy this aspect of the campaign as you select a legacy from your favorite lineage. Now, each player is REQUIRED to select a legacy...and while that may seem unfair, the story has it designed as such where this must happen. You may select a legacy of your own choosing (but the legacy must be approved by me first). Or you may select any of the following legacies, and yes...any number of players may select the same legacy if they want. And if you have a standard destiny, it stacks with the legacy destiny. You do not get more destiny points, rather you simply gain a new way to use your destiny points and this is a new application of your destiny points as detailed under Legacy destiny.
+<span style="font-size: 1.50em;">**Fett Legacy**</span>
+You are a descendant of Boba Fett, notorious bounty hunter and the leader of the Mandalorian people, or another famous member of his clan. Your family (in this case, the Fett Clan) is known for its skill in battle and its ruthlessness, as well as its efforts to restore the Mandalorian people to greatness.
+**Prerequisite:** Human or near-Human.
+**Legacy Destiny**: If you have this Legacy destiny, you can spend a Destiny Point as a free action. For the rest of the encounter, you score a critical hit on a natural roll of 19 or 20.
+<span style="font-size: 1.50em;">**Organa Legacy**</span>
+You are a descendant from Bail Organa, the Senator from Alderaan who helped found the Rebel Alliance. Your family is known for its stalwart dedication to peace and freedom, and its history for as one of the most famous noble houses in the galaxy. Since the House of Organa was destroyed along with the rest of Alderaan, you are likely one of the few people alive with Organa name.
+**Prerequisite**: Human or near-human.
+**Legacy Destiny**: If you have this Legacy destiny, you can spend a Destiny Point as a free action to automatically treat your next Persuasion check as though you had rolled a 20 on the check.
+<span style="font-size: 1.50em;">**Maul Legacy**</span>
+You are a descendant of Darth Maul, a Zabrak Sith Apprentice who underwent the most rigorous training by the most famous Sith of all time, Darth Sidious. Darth Maul was an excellent assassin who was instrumental in securing the success of Palpatine's Empire behind the scenes, and was most well-known for his mastery of the fearsome double-bladed lightsaber. His skill and ferocity were so powerful that it took two of the best Jedi's swordsmen to defeat him in combat. And we was single-handedly responsible for killing arguably one of the most wisest persons of the Jedi Order, Qui-Gon Jinn.
+**Prerequisite**: Zabrak.
+**Legacy Destiny**: If you have this legacy destiny, you can spend a Destiny Point as a free action. For the rest of the encounter, you score a critical hit with any melee weapon on a natural roll of 19 or 20.
+<span style="font-size: 1.50em;">**Thrawn Legacy**</span>
+You are a descendant of Mitth'raw'nuruodo, better known as Thrawn. He was a former Grand Admiral and the most brilliant naval tactician the Empire had ever seen. He was the key factor in leading the Empire to numerous victories despite losing the Death Star, Palpatine, and Darth Vader. His skill in tactics were so incredible, he did not even need the use of an Imperial superweapon to secure victory easily. It was said that if he would have continued living, the Empire would have secured victory over the galaxy for all time.
+**Prerequisite**: Chiss.
+**Legacy Destiny**: If you have this Legacy Destiny, you can spend a Destiny point as a free action to automatically treat your next Knowledge: Tactics check as if you had rolled a 20 on the check.
+<span style="font-size: 1.50em;">**Palpatine Legacy**</span>
+You are a descendant of Emperor Palpatine, the most powerful Sith Lord of all time. He was the key to orchestrating the Clone Wars in an ingenius plan to get him into power of the Galactic Republic and rebuild it as his own Galactic Empire. This Sith was also responsible for bringing a millenium's worth of pure hatred and revenge against the Jedi by executing the Jedi Purge. His actions will forever leave a impact on the galaxy and the Force. Palpatine's tyrannical dreams will be remembered as the darkest time the galaxy had ever known. Any known heir to this man could bear tremendous implications and severe repercussions at the promise of another individual similar to this most powerful Sith Lord.
+**Prerequisite**: Human.
+**Legacy Destiny**: If you have this Legacy destiny, you can spend a Destiny point as a free action to automatically treat your next Use the Force check as if you had rolled a natural 20. (Note: This only pertains to Use the Force checks with the Dark Side descriptor).
+<span style="font-size: 1.50em;">**Skywalker Legacy**</span>
+You are a descendant of Anakin and Luke Skywalker, two of the most famous beings in the galaxy. Your family is known for its strong connections to the Force, as well as its skill with spacecraft and other piloted vehicles.
+**Prerequisite**: Human or near-human.
+**Legacy Destiny**: If you have this Legacy destiny, you can spend a Destiny Point as a free action to automatically treat your next Use the Force check as though you had rolled a natural 20 on the check.
+Ok, that will be it for the legacies. If you wish to create your own legacy, please go to page 19 of the Saga Legacy Era campaign guide. Once you have created your own destiny, please submit it to me for approval. Once again, all players are REQUIRED to pick a destiny.
+**SLOTS AVAILABLE FOR PLAY:**
+1. Zerah
+2. Zvi
+3. Jaybee
+4. Maldoravia
+5. Fate Spinner
+6. Ganthet
+7.
+8.
+9.
+10.
+11. (Replacement Slot) Sarin
+12. (Replacement Slot) Felix
+13. (Replacement Slot)Arianhrod
+14. (Replacement Slot)
+15. (Replacement Slot)
+**WHEN AND WHERE TO PLAY:**
+The official time and place is the Unshaped Server&gt;Alderaan&#39;s Wake. Time will be Saturday 2 PM CST.. We are using the Open RPG application...which can be downloaded here: [http://www.rpgobjects.com/index.php?c=orpg&amp;m=getorpg](http://www.rpgobjects.com/index.php?c=orpg&amp;m=getorpg "http://www.rpgobjects.com/index.php?c=orpg&amp;m=getorpg"). As it stands right now, we will not be playing this Sunday unless everyone has their character sheets completed by then. In the meantime, I will be recruiting and filling up the slots as fast as possible. So, if you wish to play, please let me know so I may reserve your slot. Thanks, and let's get ready to roleplay! You may send any questions to my PM username on this site or to dr33mwalker@yahoo.com. The core rule book can be downloaded here: <!-- m -->[http://swrpgrc.com/files/books/?dir=SW%20Saga%20Edition](http://swrpgrc.com/files/books/?dir=SW%20Saga%20Edition "http://swrpgrc.com/files/books/?dir=SW%20Saga%20Edition")<!-- m -->
+
+---
+
+## Re: (SW Saga Legacy Era) Alderaan's Wake Casting Call
+
+### **zerah** (2012-01-17 12:13:44)
+
+I'm in. and I will send you a message about my legacy. Daniel said he might be in, depends on if I can get the other computer working.
+
+
+
+<span style="font-size: 0.5em;">***Last Modified**: 4.0.28 - *2025-06-02 21:38:44 EDT*</span>
